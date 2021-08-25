@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "RWFlavor"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A short deription of RWFlavor."
 
   # This description is used to generate tags and improve search results.
@@ -24,8 +24,7 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = <<-DESC DESC DESC DESC DESC DESC DESC DESC DESC
-                   DESC
+  spec.description  = "描述描述描述描述afdsfsdfds描述描述描述描述描述描述描述"
 
   spec.homepage     = "https://github.com/GitHubyangjunyi/RWPickFlavor.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
